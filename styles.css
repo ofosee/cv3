@@ -1,0 +1,55 @@
+img {
+    border-radius: 90%;
+}
+td {
+    padding: 10px;
+}
+th {
+    padding: 10px; 
+}
+body {
+    background-color: azure;
+    margin: 0;
+}
+
+hr{
+    border-color: aliceblue;
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 5px;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
+}
+
+p {
+    color:coral;
+}
+
+th{
+    color:coral;
+}
+
+td{
+    color:coral;
+}
+
+li{
+    color:coral;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: bisque;
+    background-color: black;
+}
